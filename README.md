@@ -1,7 +1,6 @@
 ### Hi there, my name is Circumcision! 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project named "vev". It's a discord bot!
 - 🌱 I’m currently learning Java
