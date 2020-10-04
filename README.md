@@ -10,4 +10,4 @@
 - ⚡ Fun fact: Did you know the first computer virus was created in 1983?
 
 Here are a list of my Github **Stats**
-https://github-readme-stats.codestackr.vercel.app/api?username=Circumcision&theme=dracula&show_icons=true
+<img align="left" alt="Circumcisions Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Circumcision&theme=dracula&show_icons=true" />
